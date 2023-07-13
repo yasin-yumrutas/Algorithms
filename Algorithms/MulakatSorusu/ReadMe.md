@@ -1,0 +1,1 @@
+golang programlama dilinde 1000 elemanlı bir byte dizi oluşturup içine random sayılar atayıp 200 ile 300. indexler arasındaki verileri 400 ile 700 verilere rastgele şekilde dağıtan ve hangi verilerin 200. ve 300. veriler arasından geldğini kullanıcıya bildiren program

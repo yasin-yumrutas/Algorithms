@@ -1,0 +1,1 @@
+Öyle keyfime göre bir sayı tahmin oyunu yapim dedim

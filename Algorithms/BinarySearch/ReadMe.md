@@ -1,0 +1,1 @@
+Burda binary search algoritması kullanlarak bir örnek yazdık

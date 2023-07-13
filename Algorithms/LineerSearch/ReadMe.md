@@ -1,0 +1,1 @@
+Burda Lineer Search algoritması yazdık

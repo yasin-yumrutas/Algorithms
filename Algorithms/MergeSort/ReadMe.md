@@ -1,0 +1,1 @@
+Burda merge sort algoritması örneği yazdık

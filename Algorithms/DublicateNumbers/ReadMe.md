@@ -1,0 +1,1 @@
+aynı sayılardan kaç tane olduğunu bulup kullanıcıya bildiren algoritma

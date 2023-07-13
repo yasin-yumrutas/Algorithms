@@ -1,0 +1,1 @@
+Burda yazı tura oyunu yazdım öyle keyfi
